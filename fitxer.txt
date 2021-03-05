@@ -1,6 +1,3 @@
 abcd
-<<<<<<< HEAD
-xyz
-=======
 efgh
->>>>>>> branch1
+xyz
