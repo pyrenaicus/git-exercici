@@ -1,2 +1,6 @@
 abcd
+<<<<<<< HEAD
 xyz
+=======
+efgh
+>>>>>>> branch1
